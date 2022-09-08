@@ -1,6 +1,6 @@
 # how to remove duplicates in excel
 
-[![how to remove duplicates in excel](get-detail.png)](https://github.com/softwarete0sting/how.to.remove.duplicates.in.excel/)
+[![how to remove duplicates in excel](get-detail.png)](https://computersolve.com/how-to-remove-duplicates-in-excel/)
 
 Organizing data involves more than just inputting it into a spreadsheet. Dumping data can result in duplicate values, typically when the information is imported from a different file, or when a large amount of information is entered over a long period of time. Either way, we'll cover how to remove those duplicates in Excel so you can streamline your spreadsheet.
 
